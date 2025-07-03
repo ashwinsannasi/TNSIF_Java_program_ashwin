@@ -27,6 +27,7 @@ public class BasicCode {
 		System.out.println(salary);
 		System.out.println(newSalary);
 		System.out.println(total);
+		System.out.println(newAge);
 		
 		//if else condition
 		
