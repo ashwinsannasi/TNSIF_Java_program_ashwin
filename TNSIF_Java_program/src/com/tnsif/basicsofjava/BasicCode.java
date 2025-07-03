@@ -29,6 +29,7 @@ public class BasicCode {
 		System.out.println(total);
 		System.out.println(newAge);
 		
+		
 		//if else condition
 		
 		if(isPassed && grade == 'A')
